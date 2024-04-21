@@ -39,3 +39,5 @@ import matplotlib.pyplot as plt
 
 plt.scatter(x=df_tracks['popularity'],y=df_tracks['duration_ms'])
 plt.show
+
+#Terminado
